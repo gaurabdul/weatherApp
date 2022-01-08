@@ -1,0 +1,54 @@
+
+
+/*------------ next file content--------------------*/
+#hdr{
+    background-color: rgb(147, 236, 74);
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:80px;
+    padding: 0;
+    
+}
+#ftr{
+    background-color: rgb(147, 236, 74);
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    margin: 0 auto;
+}
+.main_box{
+    height: 250px;
+    width: 600px;
+    border: 5px solid black;
+    margin-top: 170px;
+    margin-left: 350px;
+    position: relative;
+    padding: 10px;
+    border-radius: 20px;
+}
+#icon{
+    border: 1px solid red;
+    margin: 10px auto;
+    height: 50%;
+}
+.form{
+    
+    margin-left: 170px;
+}
+.weatherInfo{
+    margin-top: 70px;
+    
+    height: 100px;
+}
+.weatherCondition{
+    margin-bottom:10px;
+}
+.temperature{
+    margin-bottom:10px;
+}
